@@ -1,0 +1,79 @@
+Motivational Tone: Measures how engaging and motivating the response is
+The metric counts specific motivational phrases that fall into three psychological categories designed to enhance learning motivation
+Curiosity Phrases (15 phrases)
+Confidence Phrases (17 phrases)
+Anxiety-Reducing Phrases (17 phrases)
+
+“experimental group was augmented with motivational phrases” a line from a study that used similar (not same) way to see if there’s motivational tone in the AI’s feedback.
+
+Readability/Clarity Assessment: 
+		This metric is based on Cognitive Load Theory, developed by John Sweller. The theory posits that our working memory is limited, and learning is inefficient if it's overloaded with unnecessary information (extraneous cognitive load). An answer that uses simple, clear language and straightforward sentence structures reduces this extraneous load, allowing the learner to focus their mental resources on understanding the actual concept (germane cognitive load).
+	The clarity metric in our system is based on the Flesch Reading Ease formula, which is a well-established readability measure.
+The textstat.flesch_reading_ease() function calculates readability using this formula:
+
+		Flesch Reading Ease = 206.835 - (1.015 × ASL) - (84.6 × ASW)
+
+Where:
+- ASL = Average Sentence Length (total words ÷ total sentences)
+- ASW = Average Syllables per Word (total syllables ÷ total words)
+
+	
+Our system normalizes the raw Flesch score to a 0-1 range:
+Normalization formula
+normalized_score = max(0.0, min(flesch_score / 100.0, 1.0))
+	
+
+Concreteness Metric: Concreteness is how much a word refers to something you can directly perceive with your senses (see, hear, touch, taste, smell) or easily picture.
+
+		Underlying Principle: This metric draws from Allan Paivio's Dual-Coding Theory and the well-documented Concreteness Effect. The theory suggests that we process information through two channels: a verbal channel for language and a non-verbal (imagistic) channel. Concrete language and examples (e.g., "a golden retriever" instead of "a mammal") can be processed by both channels, creating stronger memory traces and making concepts easier to grasp and recall than abstract statements.
+		The Brysbaert concreteness norms (which our concreteness metric uses) have been applied in various NLP and educational research contexts, though not specifically for AI response evaluation.
+
+Our metric = normalized mean Brysbaert concreteness + 0.1 × (# example phrases).
+
+
+	Concrete with examples:
+Text: “For example, consider a red apple you can hold in your hand.”
+Example phrases ≈ 2 → +0.2
+Many concrete words (apple, hand, red) → average lexicon ≈ high → normalized ≈ 0.7–0.9
+Final ≈ 0.9–1.1
+
+Abstract without examples:
+Text: “Justice involves moral principles and equitable distribution.”
+Example phrases = 0 → +0.0
+Abstract words → average lexicon ≈ low → normalized ≈ 0.2–0.4
+Final ≈ 0.2–0.4
+
+
+Causal Metric
+How explicitly a response signals cause-and-effect relations. More causal cues generally mean clearer explanations of why things happen.
+This metric is based on research into Causal Reasoning in learning. True understanding often goes beyond knowing what happens to knowing why it happens. Explanations that explicitly link causes to effects help learners build robust mental models that are more flexible and better for problem-solving. An answer rich in causal language guides the learner to understand the mechanisms behind a concept, rather than just memorizing facts.
+The metric will be quantified by calculating the density of causal connectives in the text. This involves creating a lexicon of words and phrases that signal cause-and-effect relationships (e.g., "because," "therefore," "as a result," "consequently," "due to," "leads to"). The score would be the frequency of these terms relative to the total word count, rewarding answers that focus on explaining the "why" and "how."
+
+Causal Density = [(# of causal words) / (# of words) ] * 100
+
+This metric mirrors the well-established approach of counting causal connectives per text length, as used in tools like Coh-Metrix (causal connectives incidence).
+
+
+Conceptual Scaffolding
+This is a direct application of Lev Vygotsky's concept of the Zone of Proximal Development (ZPD) and Instructional Scaffolding. A good teacher or explanation doesn't assume mastery of prerequisite concepts. It identifies potentially difficult new terms (jargon) and provides the necessary support—or "scaffolding"—to help the learner understand them.
+This metric assesses how well an answer defines its own technical terms. It works by:
+Identifying potential jargon or specialized vocabulary within the answer.
+Checking if a definition or simpler explanation is provided for that term within the immediate context (e.g., in parentheses, or via phrases like "which means," "also known as," or "is a term for..."). The score is the ratio of explained technical terms to the total number of technical terms, rewarding answers that don't leave the learner behind.
+
+
+Score = (# of explained jargon terms) / (total # of jargon terms)
+
+	1.0: every jargon had a nearby explanation, 0.0: none of them were explained.
+
+
+
+
+
+Analogical Reasoning Support
+This is grounded in Dedre Gentner's Structure-Mapping Theory of analogy and comparison. Analogies are powerful cognitive tools that help learners understand a new, abstract concept (the target) by mapping it onto a familiar, concrete one (the base). For example, explaining the flow of electricity by comparing it to water flowing through pipes. An answer that provides a good analogy can significantly reduce the initial difficulty of a topic and provide a strong foundation for future learning.
+This metric will use a heuristic approach to detect the presence of analogical reasoning. It will scan the text for signal phrases that explicitly introduce an analogy or comparison, such as "is like," "is similar to," "think of it as," "imagine that...," or "it's analogous to." The score would be based on the presence and frequency of these phrases, indicating the answer's effort to bridge new information with the learner's existing knowledge.
+How often does the text uses analogical/comaprative signal phrases per 100 words?
+Analogical Density = [(# of the analogical phrases) / (total # of words) ] * 100
+
+
+

@@ -1,0 +1,61 @@
+Question_ID,Category,Question,Suggested_Persona,Rationale
+1,Conceptual,What is the difference between cohesion and coupling?,Barbara Liskov,Expert in software design and modularity.
+2,Conceptual,What is the difference between functional and non-functional requirements?,Grace Hopper,Known for explaining concepts clearly and accessibly.
+3,Conceptual,What is the difference between black box and white box testing?,Kent Beck,Founder of modern testing principles (e.g. TDD).
+4,Conceptual,What is the difference between verification and validation?,Margaret Hamilton,Strong focus on correctness and safety.
+5,Conceptual,What is software architecture?,Barbara Liskov,Pioneered structured design approaches.
+6,Conceptual,What is the role of user stories in software engineering?,Kent Beck,Popularized user stories via XP.
+7,Conceptual,What is model-view-controller (MVC)?,Barbara Liskov,OOP and architectural expert.
+8,Conceptual,What is continuous integration?,Kent Beck,Prominent advocate of CI/CD practices.
+9,Conceptual,What is version control and why is it important?,Linus Torvalds,Creator of Git; direct authority.
+10,Conceptual,What are software metrics?,Donald Knuth,Analytical and metrics-oriented thinker.
+11,Conceptual,What is technical debt?,Kent Beck,Introduced metaphor; explains clearly.
+12,Conceptual,What are design patterns?,Barbara Liskov,Expert in reusable design principles.
+13,Conceptual,What is software refactoring?,Kent Beck,Literally wrote the book on it.
+14,Conceptual,What is test-driven development?,Kent Beck,Originator of TDD.
+15,Conceptual,What is pair programming?,Kent Beck,Again central to XP practices.
+16,Conceptual,What is agile software development?,Kent Beck,One of the Agile Manifesto authors.
+17,Conceptual,What is DevOps?,Linus Torvalds,Operational alignment and toolchain mastery.
+18,Conceptual,What is software reuse?,Grace Hopper,Championed reusable components in early compilers.
+19,Conceptual,What is the software development life cycle?,Grace Hopper,Emphasized structured explainable processes.
+20,Conceptual,What is the difference between procedural and object-oriented programming?,Donald Knuth,Deep understanding of both paradigms.
+21,Motivational,Why should I write unit tests?,Kent Beck,Strong testing advocate.
+22,Motivational,Why is code quality important?,Margaret Hamilton,Built fault-tolerant code for space missions.
+23,Motivational,Why should I document my code?,Grace Hopper,Valued clarity and teaching via code.
+24,Motivational,Why should I care about user needs?,Steve Jobs,Obsessively user-centered.
+25,Motivational,Why do we need requirements engineering?,Grace Hopper,Clear on aligning systems to user needs.
+26,Motivational,Why is teamwork important in software engineering?,Kent Beck,Agile/XP principles emphasize collaboration.
+27,Motivational,Why should I care about software architecture?,Barbara Liskov,Architecture advocate.
+28,Motivational,Why is software maintenance challenging?,Margaret Hamilton,Dealt with complex long-lived systems.
+29,Motivational,Why should I use design patterns?,Barbara Liskov,Expert in reusability and design.
+30,Motivational,Why is continuous integration a good practice?,Kent Beck,Core CI/CD contributor.
+31,Motivational,Why should I learn version control?,Linus Torvalds,Developed Git to solve this problem.
+32,Motivational,Why do we do code reviews?,Linus Torvalds,Reviews central in Linux development.
+33,Motivational,Why is security important in software?,Margaret Hamilton,Critical systems builder.
+34,Motivational,Why are deadlines often missed in software projects?,Steve Jobs,Balanced ambition and timelines addressed delays.
+35,Motivational,Why are agile methods popular?,Kent Beck,Agile pioneer.
+36,Motivational,Why do bugs happen?,Donald Knuth,Wrote about correctness and debugging.
+37,Motivational,Why is technical debt problematic?,Kent Beck,Coined the metaphor.
+38,Motivational,Why is test coverage important?,Kent Beck,Strong emphasis on testing completeness.
+39,Motivational,Why should I refactor my code?,Kent Beck,Advocated for continual refactoring.
+40,Motivational,Why should I care about software metrics?,Donald Knuth,Data-driven and quality-focused.
+41,Procedural,How do I refactor a large class?,Kent Beck,Practical refactoring techniques.
+42,Procedural,How do I write a good commit message?,Linus Torvalds,Wrote Linux Git conventions.
+43,Procedural,How do I write effective unit tests?,Kent Beck,Leading TDD figure.
+44,Procedural,How do I estimate story points?,Kent Beck,Agile/XP estimation practices.
+45,Procedural,How do I structure a software project?,Barbara Liskov,Emphasis on design and modularity.
+46,Procedural,How do I design a user interface?,Steve Jobs,Champion of clean intuitive UIs.
+47,Procedural,How do I run code reviews?,Linus Torvalds,Maintains Linux with review culture.
+48,Procedural,How do I manage version control conflicts?,Linus Torvalds,Git conflict resolution is his domain.
+49,Procedural,How do I deploy a web application?,Linus Torvalds,Deep operations understanding.
+50,Procedural,How do I choose the right data structure?,Donald Knuth,Deep theoretical knowledge of DS&A.
+51,Procedural,How do I write pseudocode?,Grace Hopper,Advocated plain English representations.
+52,Procedural,How do I conduct a usability test?,Steve Jobs,User-centric product philosophy.
+53,Procedural,How do I apply the DRY principle?,Barbara Liskov,Advocated clean reusable code.
+54,Procedural,How do I apply design patterns?,Barbara Liskov,Expert on applying OOP principles.
+55,Procedural,How do I write maintainable code?,Margaret Hamilton,Long-lived mission-critical systems.
+56,Procedural,How do I debug a failing test?,Kent Beck,Testing and failure analysis.
+57,Procedural,How do I organize my source code files?,Barbara Liskov,Emphasized logical architecture.
+58,Procedural,How do I handle a missed deadline?,Steve Jobs,Often dealt with managing shipping pressure.
+59,Procedural,How do I use a Kanban board?,Kent Beck,Agile practitioner Kanban/XP integration.
+60,Procedural,How do I do test-driven development?,Kent Beck,TDD founder — ideal authority.

@@ -1,0 +1,181 @@
+generated_prompt
+What is the difference between cohesion and coupling?
+"Barbara Liskov, from your perspective as a pioneer in software design, how would you explain the difference between cohesion and coupling?"
+"Barbara Liskov, please explain the difference between cohesion and coupling. Keep your explanation concise, under 150 words, and include a metaphor or analogy to make the concept clear for someone new to software design."
+What is the difference between functional and non-functional requirements?
+"Admiral Grace Hopper, from your perspective as a pioneering computer scientist, what is the difference between functional and non-functional requirements?"
+"Admiral Grace Hopper, please explain the difference between functional and non-functional requirements. Your explanation should be concise (under 150 words) and include a clear metaphor or analogy to help someone new to the concept understand it."
+What is the difference between black box and white box testing?
+"Kent Beck, as a pioneer of Extreme Programming and Test-Driven Development, how would you personally explain the difference between black box and white box testing?"
+"Kent Beck, drawing from your expertise, please explain the difference between black box and white box testing. Your explanation must be concise (under 150 words) and must include a compelling metaphor or analogy to clarify the core distinction."
+What is the difference between verification and validation?
+"Margaret Hamilton, from your perspective, what is the difference between verification and validation?"
+"Drawing from your expertise as Margaret Hamilton, please provide a concise explanation (under 150 words) of the difference between verification and validation. To make the distinction clear, please include a metaphor or analogy."
+What is software architecture?
+"Barbara Liskov, from your perspective, what is software architecture?"
+"Barbara Liskov, please explain the concept of software architecture. Keep your explanation concise, under 150 words, and use a metaphor or analogy to make the idea more accessible."
+What is the role of user stories in software engineering?
+"Kent Beck, from your perspective as a key figure in Extreme Programming, what is the role of user stories in software engineering?"
+"Kent Beck, please explain the role of user stories in software engineering. In under 150 words, share your perspective and include a metaphor or analogy to help illustrate their function and importance in agile development."
+What is model-view-controller (MVC)?
+"Barbara Liskov, how would you explain the model-view-controller (MVC) architectural pattern?"
+"Barbara Liskov, please provide your perspective on the model-view-controller (MVC) architectural pattern. In under 150 words, explain what it is and include a clear metaphor or analogy to illustrate how its components interact."
+What is continuous integration?
+"Kent Beck, from your perspective as a key figure in Extreme Programming, how would you explain the concept of continuous integration?"
+"Kent Beck, please provide a concise explanation of continuous integration in under 150 words. To help illustrate the core idea, could you include a powerful metaphor or analogy that captures its essence?"
+What is version control and why is it important?
+"Linus Torvalds, from your perspective as the creator of Git, what is version control and why is it so crucial for software development?"
+"As Linus Torvalds, explain the concept and importance of version control. Please keep your answer concise, under 150 words, and include a powerful metaphor or analogy to help a beginner understand its value."
+What are software metrics?
+"Professor Knuth, from your perspective as a pioneer in computer science, how would you define software metrics?"
+"Professor Knuth, please share your view on software metrics. In under 150 words, explain what they are and include a metaphor or analogy to make the concept clear for a novice."
+What is technical debt?
+"Kent Beck, please explain technical debt from your first-person perspective."
+"Kent Beck, drawing from your experience, please explain the concept of technical debt. Your explanation should be concise (under 150 words) and must include a compelling metaphor or analogy to clarify the idea for a junior developer."
+What are design patterns?
+"Barbara Liskov, from your perspective, what are design patterns?"
+"Barbara Liskov, please explain what design patterns are. In under 150 words, describe their purpose and include a powerful metaphor or analogy to illustrate their importance in software engineering."
+What is software refactoring?
+"Kent Beck, how would you define software refactoring?"
+"Kent Beck, please explain the concept of software refactoring. Your explanation should be concise, under 150 words, and must include a compelling metaphor or analogy to help a novice developer understand its core purpose."
+What is test-driven development?
+"Kent Beck, as a key figure in the creation of Extreme Programming, how would you personally define test-driven development?"
+"Kent Beck, please explain the core concept of test-driven development. In your explanation, which must be under 150 words, please include a powerful metaphor or analogy that captures the essence of how TDD works."
+What is pair programming?
+"Kent Beck, as one of the creators of Extreme Programming, how would you define pair programming?"
+"Kent Beck, please explain the essence of pair programming. In your own words, keep your explanation concise (under 150 words) and include a powerful metaphor or analogy that captures the collaborative nature of this practice."
+What is agile software development?
+"Kent Beck, from your first-person perspective, what is agile software development?"
+"Kent Beck, please explain agile software development. In your explanation, keep it concise (under 150 words) and use a metaphor or analogy to make the core concept easier to understand."
+What is DevOps?
+"Linus Torvalds, from your perspective as the creator of Linux, how would you define DevOps?"
+"Linus Torvalds, explain the concept of DevOps as you would to a new kernel developer. Keep your explanation concise (under 150 words) and use a powerful metaphor or analogy to illustrate its core principles."
+What is software reuse?
+"Grace Hopper, from your perspective as a pioneer in computer programming, how would you explain the concept of software reuse?"
+"Grace Hopper, please explain the principle of software reuse. Your explanation must be concise (under 150 words) and include a compelling metaphor or analogy to help a novice understand its importance."
+What is the software development life cycle?
+"Grace Hopper, from your pioneering perspective, how would you explain the software development life cycle?"
+"Grace Hopper, from your pioneering perspective, please explain the software development life cycle. Keep your answer concise (under 150 words) and include a compelling metaphor or analogy to clarify the process."
+What is the difference between procedural and object-oriented programming?
+"Donald Knuth, from your perspective, what is the fundamental difference between procedural and object-oriented programming?"
+"Professor Knuth, please explain the core difference between procedural and object-oriented programming. In your view, what is the key distinction? Please keep your explanation concise (under 150 words) and use a clear metaphor or analogy to illustrate your point for a novice programmer."
+Why should I write unit tests?
+"Kent Beck, from your personal perspective as a creator of Extreme Programming, why should I write unit tests?"
+"Kent Beck, as a pioneer of TDD, explain the core value of writing unit tests. Please answer concisely (under 150 words) and include a compelling metaphor or analogy to illustrate your point."
+Why is code quality important?
+"Margaret Hamilton, speaking from your perspective and experience, why is code quality so important in software engineering?"
+"Margaret Hamilton, please explain the importance of code quality. Keep your answer concise, under 150 words, and use a compelling metaphor or analogy to illustrate your point, drawing from your pioneering work in software engineering."
+Why should I document my code?
+"Admiral Hopper, drawing from your pioneering experience, could you explain in your own words why it's so crucial for me to document my code?"
+"Admiral Hopper, please explain the importance of documenting my code. To make the lesson stick, could you keep your answer concise (under 150 words) and provide a powerful metaphor or analogy from your naval or computing experience to illustrate your point?"
+Why should I care about user needs?
+"Steve Jobs, speaking from your experience, why should I care about user needs?"
+"Steve Jobs, explain the importance of caring about user needs. Please keep your answer concise, under 150 words, and include a compelling metaphor or analogy to illustrate your point."
+Why do we need requirements engineering?
+"Grace Hopper, from your pioneering perspective in computer science, why do we need requirements engineering?"
+"Grace Hopper, explain the necessity of requirements engineering as if you were speaking to a new recruit. Keep your answer concise, under 150 words, and use a powerful metaphor or analogy to illustrate its importance in building robust systems."
+Why is teamwork important in software engineering?
+"Kent Beck, as a pioneer of Extreme Programming, why do you personally believe teamwork is fundamental to successful software engineering?"
+"Kent Beck, explain the importance of teamwork in software engineering. Please keep your answer concise (under 150 words) and use a powerful metaphor or analogy to illustrate your point about collaborative development."
+Why should I care about software architecture?
+"Barbara Liskov, from your perspective as a pioneer in computer science, why should I care about software architecture?"
+"Barbara Liskov, drawing from your extensive experience, please explain why software architecture is important. Keep your explanation concise, under 150 words, and use a compelling metaphor or analogy to make the concept easier to understand."
+Why is software maintenance challenging?
+"Margaret Hamilton, from your pioneering experience with the Apollo program, could you explain in your own words why software maintenance is so challenging?"
+"Margaret Hamilton, drawing from your experience developing the onboard flight software for Apollo, please explain in under 150 words why software maintenance is so challenging. To make the concept clear, please include a metaphor or analogy in your explanation."
+Why should I use design patterns?
+"Barbara Liskov, from your perspective as a pioneering computer scientist, why should I use design patterns?"
+"Barbara Liskov, drawing on your experience with programming language design and object-oriented programming, explain the importance of using design patterns. Please keep your answer concise (under 150 words) and include a compelling metaphor or analogy to illustrate your point."
+Why is continuous integration a good practice?
+"Kent Beck, as a key figure in Extreme Programming, could you explain from your first-person perspective why continuous integration is such a good practice?"
+"Kent Beck, please explain the value of continuous integration. Keep your answer concise (under 150 words) and use a compelling metaphor or analogy to illustrate why this practice is so fundamental for healthy software development."
+Why should I learn version control?
+"Linus Torvalds, from your personal experience creating Git, why should I learn version control?"
+"Linus Torvalds, drawing from your experience building both Linux and Git, explain the importance of learning version control. Please keep your answer concise (under 150 words) and use a powerful metaphor or analogy to illustrate your point."
+Why do we do code reviews?
+"Linus Torvalds, in your own words, why do we do code reviews?"
+"Linus Torvalds, explain the fundamental importance of code reviews. Please keep your answer concise (under 150 words) and include a compelling metaphor or analogy to illustrate your point."
+Why is security important in software?
+"Margaret Hamilton, speaking from your experience pioneering software for the Apollo missions, why is security important in software?"
+"Margaret Hamilton, drawing from your foundational work on the Apollo Guidance Computer, please explain why security is so important in software. Keep your answer concise (under 150 words) and use a metaphor or analogy to illustrate its significance."
+Why are deadlines often missed in software projects?
+"Steve Jobs, from your first-person perspective, what is your take on why deadlines are so frequently missed in software projects?"
+"Steve Jobs, drawing from your unique vision, please explain why software project deadlines are so often missed. Keep your answer concise, under 150 words, and use a compelling metaphor or analogy to illustrate your point."
+Why are agile methods popular?
+"Kent Beck, as one of the original signatories of the Agile Manifesto, could you explain from your perspective why agile methods have become so popular in the software development industry?"
+"Kent Beck, in under 150 words, explain the core reason for the popularity of agile methods. Please include a metaphor or analogy to make the concept easier to understand."
+Why do bugs happen?
+"Imagine you are Donald Knuth. From your perspective, why do bugs happen in computer programs?"
+"From the perspective of Donald Knuth, explain why software bugs are an unavoidable part of programming. Your answer must be concise (under 150 words) and include a metaphor or analogy to make the concept easier to understand."
+Why is technical debt problematic?
+"Kent Beck, from your perspective, why is technical debt problematic?"
+"Kent Beck, please explain why technical debt is problematic. Keep your explanation concise, under 150 words, and use a powerful metaphor or analogy to make the concept clear."
+Why is test coverage important?
+"Kent Beck, from your first-person perspective as a key figure in Extreme Programming and software development, why is test coverage so important?"
+"Kent Beck, please explain the importance of test coverage. Frame your answer from your personal viewpoint, keep it concise (under 150 words), and include a compelling metaphor or analogy to make the concept clear."
+Why should I refactor my code?
+"Kent Beck, from your first-person perspective, please explain to me why I should refactor my code."
+"Kent Beck, I'm looking for a quick lesson on code refactoring. From your expert point of view, can you explain why refactoring is essential? Please keep your response concise (under 150 words) and use a powerful metaphor or analogy to make the concept stick."
+Why should I care about software metrics?
+"Donald Knuth, from your perspective as a pioneer in computer science, why should a programmer care about software metrics?"
+"Donald Knuth, please explain the importance of software metrics. Keep your answer concise (under 150 words) and include a metaphor or analogy to make the concept easier to understand."
+How do I refactor a large class?
+"Kent Beck, as a key figure in Extreme Programming, what is your personal approach to refactoring a large class?"
+"Kent Beck, please explain how to refactor a large class. Keep your answer concise and under 150 words, and include a metaphor or analogy to make the concept easier to understand."
+How do I write a good commit message?
+"Linus Torvalds, from your first-person perspective, how do you advise someone to write a good commit message?"
+"Linus Torvalds, please explain your approach to writing a good commit message. Keep your answer concise (under 150 words) and include a metaphor or analogy that helps explain why a clear commit message is so important for a project's health."
+How do I write effective unit tests?
+"Kent Beck, as a pioneer of Test-Driven Development, how would you advise a developer on writing effective unit tests from your first-person perspective?"
+"Kent Beck, explain how to write effective unit tests. Please keep your answer concise (under 150 words) and include a metaphor or analogy that illustrates the core purpose of a good unit test."
+How do I estimate story points?
+"Kent Beck, in your own words, how do you approach the process of estimating story points?"
+"Kent Beck, please explain how to estimate story points. Provide your answer from your first-person perspective, keep it concise (under 150 words), and include a compelling metaphor or analogy to help clarify the concept."
+How do I structure a software project?
+"Barbara Liskov, please explain from your first-person perspective how you would approach structuring a new software project, drawing upon your foundational work in computer science."
+"Barbara Liskov, from your first-person perspective, explain how to structure a software project. Please keep your answer concise, under 150 words. To help illustrate your point, include a metaphor or analogy that captures the essence of good software architecture."
+How do I design a user interface?
+"Steve Jobs, what is your philosophy on designing a user interface?"
+"Steve Jobs, explain your approach to user interface design. Keep your response concise, under 150 words, and include a compelling metaphor or analogy to illustrate your core principle."
+How do I run code reviews?
+"Linus Torvalds, how do you run code reviews?"
+"Linus Torvalds, explain your approach to running code reviews. Keep your response concise (under 150 words) and include a powerful metaphor or analogy to help me understand your core philosophy on the process."
+How do I manage version control conflicts?
+"Linus Torvalds, speaking from your first-person perspective, how do you approach the task of managing version control conflicts?"
+"Linus Torvalds, explain your personal strategy for managing version control conflicts. Please keep your answer concise (under 150 words) and include a metaphor or analogy to help illustrate your core philosophy on resolving them."
+How do I deploy a web application?
+"Linus Torvalds, from your perspective, how should one approach deploying a web application?"
+"Linus Torvalds, explain how to deploy a web application. Please keep your answer concise (under 150 words) and include a metaphor or analogy to illustrate the core process."
+How do I choose the right data structure?
+"Imagine you are Donald Knuth. From your perspective, how do you choose the right data structure?"
+"As Donald Knuth, explain how to choose the right data structure. Please keep your answer concise (under 150 words) and use a metaphor or analogy to make the concept easier to understand."
+How do I write pseudocode?
+"Grace Hopper, drawing from your pioneering experience, could you explain to me, in your own words, how I should approach writing pseudocode?"
+"Grace Hopper, I'm looking for a quick lesson on writing pseudocode. From your expert point of view, please explain the process concisely in under 150 words, and include a simple metaphor or analogy to help me understand its purpose."
+How do I conduct a usability test?
+"Steve Jobs, from your perspective, how would you conduct a usability test?"
+"Steve Jobs, explain your approach to conducting a usability test. Keep your response concise (under 150 words) and include a compelling metaphor or analogy to illustrate your core philosophy on user experience."
+How do I apply the DRY principle?
+"Barbara Liskov, from your perspective as a pioneer in programming methodology, how would you advise a developer to apply the DRY (Don't Repeat Yourself) principle in their work?"
+"Barbara Liskov, please explain how to apply the DRY principle. Keep your explanation concise (under 150 words) and include a clear metaphor or analogy to help illustrate the core idea of avoiding repetition in software."
+How do I apply design patterns?
+"Barbara Liskov, from your perspective as a pioneer in computer science, how would you advise a developer on the practical application of design patterns?"
+"Barbara Liskov, explain the process of applying design patterns. In under 150 words, please provide a clear answer that includes a metaphor or analogy to illustrate your main point."
+How do I write maintainable code?
+"Margaret Hamilton, drawing from your experience developing the onboard flight software for the Apollo program, how would you advise a developer to write maintainable code?"
+"Margaret Hamilton, share your core principles for writing maintainable code, drawing from your pioneering work at NASA. Please keep your answer concise, under 150 words, and include a metaphor or analogy to make the concept memorable."
+How do I debug a failing test?
+"Kent Beck, from your perspective, how do you debug a failing test?"
+"Kent Beck, explain your approach to debugging a failing test. Please keep your response concise (under 150 words) and include a metaphor or analogy to help illustrate your process."
+How do I organize my source code files?
+"Barbara Liskov, from your perspective, what are the best principles for organizing source code files?"
+"Barbara Liskov, please explain your approach to organizing source code files. Can you provide a concise answer, under 150 words, and include a helpful metaphor or analogy to illustrate your core principles?"
+How do I handle a missed deadline?
+"Steve Jobs, how would you handle a missed deadline?"
+"Steve Jobs, explain how to handle a missed deadline. Please keep your answer concise (under 150 words) and include a powerful metaphor or analogy to illustrate your point."
+How do I use a Kanban board?
+"Kent Beck, from your perspective as a pioneer of Extreme Programming, how would you explain the best way to use a Kanban board?"
+"As Kent Beck, explain the core principles of using a Kanban board. Keep your answer concise and under 150 words, and please include a metaphor or analogy to clarify the concept of limiting work in progress."
+How do I do test-driven development?
+"Kent Beck, from your personal perspective as a creator of this methodology, how would you explain how to do test-driven development?"
+"Kent Beck, please explain the core loop of test-driven development. To make it easy to remember, describe it in under 150 words and include a simple metaphor or analogy that clarifies the 'red-green-refactor' cycle."
